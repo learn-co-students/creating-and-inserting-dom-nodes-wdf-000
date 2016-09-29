@@ -93,7 +93,7 @@ We can just call `remove()` on the element itself:
 ul.remove()
 ```
 
-And it's gone!
+And it's gone!!
 
 ## Resources
 
