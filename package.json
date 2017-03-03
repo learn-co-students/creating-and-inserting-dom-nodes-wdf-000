@@ -1,5 +1,5 @@
 {
-  "name": "creating-and-inserting-dom-nodes",
+  "name": "JavaScript Hide and Seek",
   "version": "0.1.0",
   "description": "Introduction to creating and inserting DOM elements",
   "engines": {
@@ -9,7 +9,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/learn-co-curriculum/creating-and-inserting-dom-nodes.git"
+    "url": "git+ssh://git@github.com/learn-co-curriculum/java-script-hide-and-seek.git"
   },
   "keywords": [
     "javascript",
@@ -19,9 +19,9 @@
   "author": "pletcher",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes/issues"
+    "url": "https://github.com/learn-co-curriculum/java-script-hide-and-seek/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes#readme",
+  "homepage": "https://github.com/learn-co-curriculum/java-script-hide-and-seek#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "jsdom": "^9.2.1",
